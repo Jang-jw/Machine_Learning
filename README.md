@@ -39,7 +39,7 @@
 - 09/20 목 : 텍스트 마이닝 / 영화리뷰분석(영어) / BOW(Bag of Words) / CountVectorizer / 네이버 영화리뷰 분석 / okt / kkma .
 - <img src="https://github.com/Jang-jw/Machine_Learning/assets/134268098/1f4503fa-c9d5-4c5c-8879-765eb667696e" width="700">
 - <img src="https://github.com/Jang-jw/Machine_Learning/assets/134268098/ae042f4b-b252-48d6-b589-16e4b22a67b2" width="700">
-
+- 09/25 월 : 머신러닝 시험! 
 
 
 
